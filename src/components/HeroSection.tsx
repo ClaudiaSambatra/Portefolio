@@ -1,4 +1,4 @@
-import React, { Children } from 'react';
+import React from 'react';
 import { motion } from 'framer-motion';
 import { ArrowDown, Github, Linkedin, Facebook } from 'lucide-react';
 import { GlassCard } from './GlassCard';

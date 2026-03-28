@@ -1,5 +1,3 @@
-import React from 'react';
-
 export function StarField() {
   return (
     <div className="fixed inset-0 z-0 pointer-events-none">
